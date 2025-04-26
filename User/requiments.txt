@@ -1,0 +1,5 @@
+streamlit
+boto3
+faiss-cpu
+langchain
+langchain-community==0.0.29
